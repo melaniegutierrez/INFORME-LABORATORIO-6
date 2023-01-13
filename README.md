@@ -58,11 +58,13 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 Calcular errores de las mediciones y comentar los resultados.
 
+![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-6/blob/main/e4.png)
 
+Debido a que tiene un porcentaje de error bastante grande se puede deducir que la simulacion de potencia muestra datos algo alejados de los calculados teoricamente
 
 ## 5. VIDEO
 
-Link: 
+Link: https://youtu.be/3khIjEkkOUM
 
 ## 6. CONCLUSIONES
 
