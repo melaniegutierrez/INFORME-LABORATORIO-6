@@ -22,6 +22,10 @@ TEOREMA DE LA MAXIMA TRANSFERENCIA DE POTENCIA
 
 ![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-6/blob/main/e1.png)
 
+![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-6/blob/main/e5.png)
+
+![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-6/blob/main/e6.png)
+
 **CALCULO TEORICO DE LA POTENCIA**
 
 ![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-6/blob/main/e2.png)
