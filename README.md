@@ -2,14 +2,11 @@
 
 ## 1. OBJETIVOS
 
-Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia en un circuito resistivo mixto mediante simulaciones en la aplicacion tinkercad para comparar los resultados con los resultados analiticos el teorema.
+Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia en un circuito resistivo mixto mediante simulaciones en la aplicacion ACDC LAB para comparar los resultados con los resultados analiticos el teorema.
 
 ### OBJETIVOS ESPECIFICOS
 
 - Implementar el uso basico de la ley de ohm, tanto para intensidades como para potencia.
-
-- 
-
 
 ## 2. MARCO TEORICO 
 
