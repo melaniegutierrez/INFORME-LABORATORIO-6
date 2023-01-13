@@ -8,6 +8,8 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia e
 
 - Implementar el uso basico de la ley de ohm, tanto para intensidades como para potencia.
 
+- Identificar las aplicaciones que tiene la reduccion de circuitos de Thevenin para el calculo de potencia. 
+
 ## 2. MARCO TEORICO 
 
 TEOREMA DE LA MAXIMA TRANSFERENCIA DE POTENCIA
@@ -71,5 +73,7 @@ Link: https://youtu.be/3khIjEkkOUM
 
 ## 7. BIBLIOGRAFIA 
 
+- Teorema Máximo de Transferencia de Energía - Electronica Lugo. (2018, June 2). Electronica Lugo. https://electronicalugo.com/teorema-maximo-de-transferencia-de-energia/
 
+‌
 
