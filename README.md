@@ -15,10 +15,13 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia e
 
 TEOREMA DE LA MAXIMA TRANSFERENCIA DE POTENCIA
 
-
+![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-6/blob/main/WhatsApp%20Image%202023-01-12%20at%2010.02.42.jpeg)
 
 ## 3. EXPLICACION DEL PROCEDIMIENTO
 
+![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-6/blob/main/e1)
+
+![](https://github.com/melaniegutierrez/INFORME-LABORATORIO-6/blob/main/e2)
 
 
 ## 4. RESPUESTAS A INTERROGANTES
